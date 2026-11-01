@@ -1,0 +1,18 @@
+{
+  "name": "getregdata-registry-lookups",
+  "version": "1.0.0",
+  "description": "Free company lookups straight from official government registers - no API key, no account. Poland (KRS extract and VAT white list), Czechia (ARES), Norway, Finland, France, Latvia, Lithuania, Romania, Brazil, Costa Rica, Dominican Republic, Hong Kong, Israel, Singapore, Thailand, Vietnam and US SEC EDGAR, plus EU VAT validation, global LEI resolution, sanctions and PEP screening, offshore-leaks red flags, EU lobbying and funding, and public-procurement awards (EU TED, US federal, World Bank).",
+  "author": {
+    "name": "getregdata",
+    "url": "https://getregdata.com"
+  },
+  "homepage": "https://getregdata.com/skills/",
+  "repository": "https://github.com/Nolpak14/getregdata-plugins",
+  "license": "MIT",
+  "keywords": ["company-lookup", "kyb", "know-your-business", "government-registry", "due-diligence", "vat", "lei", "sanctions", "krs", "ares", "free-api"],
+  "icon": "./logo.png",
+  "privacyPolicyUrl": "https://getregdata.com/privacy/",
+  "termsOfServiceUrl": "https://getregdata.com/terms/",
+  "supportUrl": "https://getregdata.com/contact/",
+  "documentationUrl": "https://getregdata.com/skills/"
+}

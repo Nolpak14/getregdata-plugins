@@ -1,0 +1,13 @@
+{
+  "name": "getregdata-plugins",
+  "owner": { "name": "getregdata", "url": "https://getregdata.com" },
+  "metadata": { "description": "Claude plugins for official business-registry data, from getregdata.", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "getregdata-registry-lookups",
+      "source": "./plugins/getregdata-registry-lookups",
+      "description": "Free company lookups from official government registers - no API key. Poland (KRS, VAT white list), Czechia (ARES), Nordics, Baltics, France, LatAm, Asia, EU VAT, LEI, sanctions and procurement.",
+      "category": "productivity"
+    }
+  ]
+}
